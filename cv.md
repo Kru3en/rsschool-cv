@@ -7,6 +7,7 @@
 ![My photo](assets\img\cvphoto.jpg "Thi's I")
 
 2. Tel: (29) 804-10-29
+
 <dd>Email: Gorodni4uk.igor@mail.com</dd>
 <dd>Address: Brest, Adamkovskaya, 48/2, Belarus</dd>
 <dd>Discord: Igor Gorodnichuk(@Kru3en)</dd>
@@ -21,6 +22,7 @@
  
 
 5. 
+
 ```javascript
   var isSquare = function(n){
   if(n==0){
