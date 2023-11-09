@@ -1,13 +1,16 @@
 #Resume of Igor Gorodnichuk
 1. Igor Gorodnichuk
-Date of birth: 12 December, 2002
+
+ <d>Date of birth: 12 December, 2002 </d>
+
 ********* 
 ![My photo](assets\img\cvphoto.jpg "Thi's I")
 
 2. Tel: (29) 804-10-29
-Email: Gorodni4uk.igor@mail.com
-Address: Brest, Adamkovskaya, 48/2, Belarus
-Discord: Igor Gorodnichuk(@Kru3en)
+<dd>Email: Gorodni4uk.igor@mail.com</dd>
+<dd>Address: Brest, Adamkovskaya, 48/2, Belarus</dd>
+<dd>Discord: Igor Gorodnichuk(@Kru3en)</dd>
+
 ********* 
 
 3. I aspire to become a front-end developer, learning js is my priority, I am a quick learner, persistent, I strive to gain new knowledge for the sake of big income.
