@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'Ysabeau Office';
+    src: url("./assets/fonts/YsabeauOffice-ExtraLight copy.ttf");
+    font-size: 12px;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  body {
+    font-family: 'Ysabeau Office';
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: beige;
+  }
+  
+  .nav {
+    margin-bottom: 30px;
+  }
+  
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    transition: .3s;
+  }
+  
+  .nav-link {
+    
+    padding: 12px 38px;
+    background-color: rgb(22, 151, 151);
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 1s;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .nav-link:hover {
+    background-color: rgb(23, 209, 255);
+  }
+  
+  .section-title {
+    font-size: 20px;
+    color: aqua;
+    margin-bottom: 10px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .header{
+  width: 100%;
+  }
+  
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    width: 50%;
+    padding: 0 10px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 1400px) {
+    .section {
+      width: 100%;
+      padding: 0;
+    }
+  }
+  
+  hr {
+    height: 2px;
+    background-color: rgb(231, 182, 90);
+    float: left;
+    border: none;
+    margin: 20px 0;
+    width: 300px;
+  }
+  .hr-title{
+  width: 1400px;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
